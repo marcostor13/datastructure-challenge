@@ -9,10 +9,44 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<p>Una de las empresas del grupo gestiona un centro retail. Al contar con
-diversas fuentes de información es necesario desarrollar un pipeline de conversion de datos
-(utiliza .NET y el framework de tu preferencia) para sacarle el máximo provecho a esta
-información.</p>
+<h2> :fire: Problematica</h2>
+<p>Se requiere procesar una store de datos de mas de 100 millones de documentos que contienen informacion sobre el clima en determinadas ciudades. El area de desarrollo mobile requiere que se reestructuren los datos para poder implementar diversos dashboards. Tu tarea es crear un programa que se encargue de realizar los pipelines para la extraccion, transformacion y recreacion de los datos.</p>
+
+
+<h4>Input</h4>
+
+```
+{
+  "cities": [
+    {
+      ...
+      weater: {
+        ...
+      }
+    }
+  ]
+}
+
+```
+
+
+<h4>Output</h4>
+
+```
+[
+  {
+    "weater": {
+      ...
+    },
+    cities: [
+      {
+        ....
+      }
+    ]
+  }
+]
+
+```
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2> :floppy_disk: Descripcion del flujo de trabajo</h2>
@@ -20,7 +54,7 @@ información.</p>
 <p>Este proyecto contendra 2 archivos comprendidos por:</p>
 <h4>Input File:</h4>
 <ul>
-  <li><b>input.json</b> - Incluye todo lo requerido para clasificar los datos y procesarlos hacia una nueva estructura</li>
+  <li><b>input.json</b> - Incluye un ejemplo con un grupo de documentos que permitira clasificar los datos y procesarlos hacia una nueva estructura</li>
 </ul>
 
 <h4>Output File:</h4>
@@ -40,3 +74,13 @@ información.</p>
 <p>Toda informacion o consulta debera ser realizada a traves de la creacion de un Issue en este repositorio</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+
+<h2> :book: Items a evaluar</h2>
+
+<p>Estructura del desarrollo del proyecto</p>
+<p>Estructura de codigo</p>
+<p>Clean Code</p>
+<p>Gestion de los recursos de ram, disco y cpu</p>
+<p>Solucion para la transformacion de mas de 100 millones de documentos</p>
