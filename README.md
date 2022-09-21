@@ -10,7 +10,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :fire: Problematica</h2>
-<p>Se requiere procesar una store de datos de mas de 100 millones de documentos que contienen informacion sobre el clima en determinadas ciudades. El area de desarrollo mobile requiere que se reestructuren los datos para poder implementar diversos dashboards. Tu tarea es crear un programa que se encargue de realizar los pipelines para la extraccion, transformacion y recreacion de los datos.</p>
+<p>Se requiere procesar una store de datos de mas de 10 millones de documentos que contienen informacion sobre el clima en determinadas ciudades. El area de desarrollo mobile requiere que se reestructuren los datos para poder implementar diversos dashboards. Tu tarea es crear un programa que se encargue de realizar los pipelines para la extraccion, transformacion y recreacion de los datos.</p>
 
 
 <h4>Input</h4>
