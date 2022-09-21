@@ -66,9 +66,10 @@
 
 <h2> :book: Descripcion del flujo de entrega</h2>
 
-<p>Los participantes deberan hacer fork de este repositorio y mandar PR para la revision del challenge. <a href="https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository">Invitar colaboradores a un repositorio personal</a>
+<p>Los participantes deberan hacer <a href="https://docs.github.com/es/get-started/quickstart/fork-a-repo">fork</a> de este repositorio y crear un <a href="https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">PR</a> para la revision del challenge.
 </p>
 
+<p>La resolucion del challenge tendra como fecha maxima de entrega el 30/09/2022</p>
 
 <p>Toda informacion o consulta debera ser realizada a traves de la creacion de un Issue en este repositorio</p>
 
