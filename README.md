@@ -77,7 +77,7 @@
 
 
 
-<h2> :book: Items a evaluar</h2>
+<h2> :white_check_mark: Items a evaluar</h2>
 
 <p>Estructura del desarrollo del proyecto</p>
 <p>Estructura de codigo</p>
