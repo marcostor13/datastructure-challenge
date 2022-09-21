@@ -1,7 +1,7 @@
 
 <h1 align="center"> Data Structure Challenge </h1>
 <h3 align="center"> Instrucciones para la tarea de estructura de datos </h3>
-<h5 align="center"> Krowdy Peru - <a href="#">Challenge</a> (Setiembre 2022) </h5>
+<h5 align="center"> Telemática - <a href="#">Challenge</a> (Setiembre 2022) </h5>
 
 <p align="center"> 
 
