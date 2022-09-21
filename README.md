@@ -66,7 +66,7 @@
 
 <h2> :book: Descripcion del flujo de entrega</h2>
 
-<p>Los participantes deberan hacer fork privado de este repositorio y compartir el acceso al usuario @krowdycareers para la revision del challenge. <a href="https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository">Invitar colaboradores a un repositorio personal</a>
+<p>Los participantes deberan hacer fork de este repositorio y mandar PR para la revision del challenge. <a href="https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository">Invitar colaboradores a un repositorio personal</a>
 </p>
 
 <p>La resolucion del challenge tendra como fecha maxima de entrega el 30/09/2022</p>
