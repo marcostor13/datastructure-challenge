@@ -1,0 +1,34 @@
+{
+  "name": "datastructure-challenge",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> Data Structure Challenge </h1>\r <h3 align=\"center\"> Instrucciones para la tarea de estructura de datos </h3>\r <h5 align=\"center\"> Telemática - <a href=\"#\">Challenge</a> (Setiembre 2022) </h5>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"tsc -w\" \"nodemon lib/index.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcostor13/datastructure-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcostor13/datastructure-challenge/issues"
+  },
+  "homepage": "https://github.com/marcostor13/datastructure-challenge#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.1",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/morgan": "^1.9.3",
+    "concurrently": "^7.5.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
